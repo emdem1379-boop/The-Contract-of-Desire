@@ -91,10 +91,19 @@ a.lockedButton {
   background: white;
   color: #222;
 }
-
 .lockedButton {
-  background: #ff4fa3;
+  background: linear-gradient(135deg, #ff4fa3, #ff2d7a);
   color: white;
+
+  box-shadow: 0 0 20px rgba(255, 79, 163, 0.6);
+  transition: all 0.2s ease;
+}
+
+.lockedButton:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0 30px rgba(255, 79, 163, 0.9);
+}
+
 }
 
 .small {
