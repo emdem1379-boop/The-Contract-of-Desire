@@ -13,7 +13,9 @@ export default function HomePage() {
             Instead, his eyes meet yours like he has been expecting you all along.
           </p>
 
-          <p>“Most people knock,” he says softly.</p>
+          <p>
+            “Most people knock,” he says softly.
+          </p>
 
           <p>
             You should leave. You know you should. But something in his voice
@@ -28,21 +30,23 @@ export default function HomePage() {
 
           <p>
             “You don’t belong in a place like this,” he says, studying you.
+            “And yet somehow, you fit here better than anyone I’ve met.”
           </p>
 
           <p>
-            The city glows behind him. You should answer. Instead, you hesitate.
+            The city glows behind him. You should answer. You should say
+            something clever. Instead, all you can think about is how close he is.
           </p>
 
           <h2>Chapter 3</h2>
           <div className="fade">
             <p>
               He steps closer. Close enough that you can feel the shift in the air
-              between you. His voice drops—
+              between you.
             </p>
 
             <p>
-              “If you stay… things change.”
+              “If you stay,” he says, voice low and dangerous, “things change.”
             </p>
 
             <p>
@@ -63,7 +67,7 @@ export default function HomePage() {
         </div>
 
         <p className="small">
-          Read free preview. Unlock full story instantly.
+          Read the preview free. Unlock the full story instantly.
         </p>
       </div>
     </main>
