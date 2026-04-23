@@ -6,9 +6,9 @@ export default function HomePage() {
         <h1>Velvet Choice</h1>
         <p className="tagline">Steamy interactive love stories.</p>
 
-        <div className="story">
-          <h2>Chapter 1</h2>
-          <p>
+        <p className="small">
+  Instant access after checkout. Cancel anytime.
+</p>
             You step into the penthouse office expecting a routine delivery.
             Instead, his eyes meet yours like he has been expecting you all along.
           </p>
