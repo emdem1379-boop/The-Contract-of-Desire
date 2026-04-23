@@ -6,17 +6,9 @@ export default function HomePage() {
       <p>Steamy interactive love stories.</p>
 
       <a
-    href="https://buy.stripe.com/xxxxxxxx"
+        href="YOUR_WORKING_STRIPE_LINK"
         target="_blank"
         rel="noopener noreferrer"
-        style={{
-          display: 'inline-block',
-          padding: '12px 16px',
-          background: 'black',
-          color: 'white',
-          textDecoration: 'none',
-          borderRadius: '8px',
-        }}
       >
         🔒 Unlock the next chapter — $5/month
       </a>
