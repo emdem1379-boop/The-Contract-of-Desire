@@ -16,7 +16,17 @@ body {
   background-position: center;
   background-attachment: fixed;
 }
+.card {
+  max-width: 650px;
+  width: 100%;
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 20px;
+  padding: 28px;
+  backdrop-filter: blur(10px);
 
+  box-shadow: 0 0 40px rgba(255, 79, 163, 0.25);
+}
 }
 
 .page {
@@ -27,14 +37,7 @@ body {
   padding: 24px;
 }
 
-.card {
-  max-width: 650px;
-  width: 100%;
-  background: rgba(255,255,255,0.08);
-  border: 1px solid rgba(255,255,255,0.15);
-  border-radius: 20px;
-  padding: 28px;
-  backdrop-filter: blur(8px);
+
 }
 
 h1 {
