@@ -6,8 +6,13 @@ export default function HomePage() {
         <h1>Velvet Choice</h1>
         <p className="tagline">Steamy interactive love stories.</p>
 
-        <p className="small">
+ <p className="small">
   Instant access after checkout. Cancel anytime.
+</p>
+
+<p>
+  You step into the penthouse office expecting a routine delivery.
+  Instead, his eyes meet yours like he has been expecting you all along.
 </p>
             You step into the penthouse office expecting a routine delivery.
             Instead, his eyes meet yours like he has been expecting you all along.
