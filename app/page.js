@@ -34,7 +34,7 @@ export default function HomePage() {
           <div className="lockIcon">🔒</div>
           <h2>The rest is locked</h2>
           <p>
-   <a<p>
+   <p>
   Unlock the full story library and continue instantly after checkout.
 </p>
 
