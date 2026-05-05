@@ -37,11 +37,13 @@ export default function HomePage() {
             Unlock the full story library and continue instantly after checkout.
           </p>
 
-          <a
-            href=https://buy.stripe.com/3cI5kFbYafVk8Kaajnak004
-            target="_blank"
-            rel="noopener noreferrer"
-            className="lockedButton"
+          <ahref="https://buy.stripe.com/3cI5KfBYafVk8Kaajnak004"
+           <a
+  href="https://buy.stripe.com/3cI5KfBYafVk8Kaajnak004"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="lockedButton"
+>
           >
             Unlock Velvet Choice — $5/month
           </a>
