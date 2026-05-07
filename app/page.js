@@ -11,9 +11,14 @@ export default function Chapter23() {
 
       <h2>Chapter 23</h2>
 
-      <p>
-        Velvet_Choice_Expanded_Print.pdf
-      </p>
+     <a
+  href="/Velvet_Choice_Expanded_Print.pdf"
+  target="_blank"
+  rel="noopener noreferrer"
+  style={{ color: "white", textDecoration: "underline", fontSize: "18px" }}
+>
+  Open / Download Chapter 23 PDF
+</a>
     </main>
   );
 }
