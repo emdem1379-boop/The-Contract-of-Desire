@@ -30,7 +30,7 @@ export default function HomePage() {
           </p>
         </div>
 
-  <div className="lockedBox">
+<div className="lockedBox">
 
   <p className="small center">
     🔒 Continue beyond the door.
@@ -53,7 +53,7 @@ export default function HomePage() {
     Cancel anytime. Instant access after checkout.
   </p>
 
-</div>
+
       </section>
     </main>
   );
