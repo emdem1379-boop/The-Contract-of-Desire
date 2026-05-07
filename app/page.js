@@ -1,49 +1,19 @@
 
 
-export default function HomePage() {
+export default function Chapter23() {
   return (
-    <main className="page">
-      <section className="card">
-        <div className="badge">Premium Romance Preview</div>
+    <main style={{ padding: "40px", color: "white", background: "black", minHeight: "100vh" }}>
+      <h1>Velvet Choice – Full Access</h1>
 
-        <h1>Velvet Choice</h1>
+      <p>
+        Welcome to the unlocked chapter experience.
+      </p>
 
-        <p className="tagline">
-          Steamy interactive love stories where every choice pulls you deeper.
-        </p>
+      <h2>Chapter 23</h2>
 
-        <div className="story">
-          <h2>Chapter 1</h2>
-
-          <p>
-            He takes the envelope from your hand, his fingers brushing yours just
-            long enough to make your pulse jump.
-          </p>
-        </div>
-
-        <div className="lockedBox">
-          <p className="small center">
-            🔒 Continue beyond the door.
-          </p>
-
-          <p>
-            Unlock the full story library and continue instantly after checkout.
-          </p>
-<a
-  href="https://buy.stripe.com/3cI5kFbYafVk8Kaajnak004"
-  target="_blank"
-  rel="noopener noreferrer"
-  className="lockedButton"
->
-  Unlock Velvet Choice – $5
-</a>
-          
-
-          <p className="small center">
-            Cancel anytime. Instant access after checkout.
-          </p>
-        </div>
-      </section>
+      <p>
+        Paste your full chapter content here.
+      </p>
     </main>
   );
 }
