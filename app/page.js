@@ -27,7 +27,7 @@ export default function Home() {
           </p>
 
           <div style={styles.buttons}>
-            <a href="/Velvet_Choice_Expanded_Print.pdf" style={styles.primary}>
+            <a href="/velvet-choice-part-one.pdf" style={styles.primary}>
               Read Free Preview
             </a>
 
